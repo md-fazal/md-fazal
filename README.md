@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @md-fazal
 - 🌱 I’m currently pursuing CS at RCOEM India
-- 💞️ I’m looking to collaborate on any open source projects
+- 💞️ I’m looking to collaborate on Computer Vision related open source projects
 - 📫 How to reach me fazalmohammad980@gmail.com
 
 <!---
